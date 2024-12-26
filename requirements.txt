@@ -1,0 +1,6 @@
+streamlit
+cv2
+tempfile
+moviepy.editor
+PIL
+numpy
