@@ -1,6 +1,5 @@
 streamlit
-cv2
-tempfile
-moviepy.editor
-PIL
+opencv-python
+moviepy
+pillow
 numpy
