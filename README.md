@@ -1,6 +1,8 @@
 # tilt_shift_app
 An app to make a scene look miniature using the tilt shift effect.
 
+To run it: run streamlit run tilt_shift_app.py in cmd
+
 Here's a screenshot of the output:
 
 
